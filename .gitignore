@@ -1,0 +1,4 @@
+notebooks/.ipynb_checkpoints
+source_data
+dwh_scripts
+table_scripts
